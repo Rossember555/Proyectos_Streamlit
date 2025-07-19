@@ -1,9 +1,0 @@
-# ============ REQUERIMIENTOS MÍNIMOS ============
-streamlit>=1.29
-streamlit-option-menu>=0.3.6
-plotly>=5.18
-pandas>=2.2
-numpy>=1.26
-openpyxl>=3.1
-requests>=2.31
-# ================================================
